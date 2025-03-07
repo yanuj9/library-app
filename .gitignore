@@ -1,0 +1,7 @@
+# Ignore build output and compiled files
+/target/
+*.class
+
+.idea/
+.mvn/
+.data/
